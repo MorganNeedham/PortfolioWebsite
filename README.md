@@ -1,6 +1,6 @@
 # Morgan Needham Portfolio
 
-A personal portfolio website built to showcase my front-end development projects, technical skills, and growth as a junior front-end developer.
+A personal portfolio website built to showcase my software development projects, technical skills, and growth as a junior software developer.
 
 ## Live Site
 
